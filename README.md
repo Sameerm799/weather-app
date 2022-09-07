@@ -1,4 +1,4 @@
-#React Weather App using API
+# React Weather App using API
 utilizing GeoDB and Open weather 
 
 
